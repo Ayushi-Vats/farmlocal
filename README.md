@@ -23,3 +23,6 @@
 
 ## Trade-offs
 - Simple LIKE search instead of full-text; no real-time invalidation for lightness.
+
+##Deployed link
+-https://github.com/Ayushi-Vats/farmlocal
