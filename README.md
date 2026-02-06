@@ -25,4 +25,4 @@
 - Simple LIKE search instead of full-text; no real-time invalidation for lightness.
 
 ##Deployed link
--https://github.com/Ayushi-Vats/farmlocal
+- https://farmlocal-op6s.onrender.com
